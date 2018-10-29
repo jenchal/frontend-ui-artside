@@ -19,6 +19,10 @@ body {
 	background-image: url("../images/bg-body.jpg");
 }
 
+a {
+	color: #707070;
+}
+
 .wrapper {
 	width: 1000px;
 	height: auto;
@@ -27,5 +31,35 @@ body {
 }
 
 /*==============================header===============================*/
+
+.page-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 45px;
+	box-sizing: border-box;
+	margin-bottom: 100px;
+}
+
+.page-header img {
+	display: block;
+	width: 100px;
+	height: auto;
+}
+
+.page-header .phone {
+	display: block;
+	font-family: 'LightAlternate', 'Arial', sans-serif;
+	color: #707070;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 26px;
+	text-decoration: none;
+}
+
+.page-header .phone .code-phone {
+	display: block;
+	font-size: 30px;
+}
 
 /*==============================header===============================*/
