@@ -1,6 +1,31 @@
+@font-face {
+	font-family: 'DINCyr';
+	src: url('../fonts/dincyr-regular.eot');
+	src: url('../fonts/dincyr-regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/dincyr-regular.woff') format('woff'),
+	url('../fonts/dincyr-regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'LightAlternate';
+	src: url('../fonts/DIN LightAlternate Regular.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	background-image: url("../images/bg-body.jpg");
+}
+
 .wrapper {
 	width: 1000px;
 	height: auto;
 	min-height: 100%;
 	margin: 0 auto;
 }
+
+/*==============================header===============================*/
+
+/*==============================header===============================*/
