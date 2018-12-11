@@ -15,6 +15,10 @@
 	font-style: normal;
 }
 
+html {
+	height: 100%;
+}
+
 body {
 	background-image: url("../images/bg-body.jpg");
 	font-size: 11px;
@@ -147,7 +151,7 @@ ul li {
 .teammate-photo .photo {
 	width: 78px;
 	height: 78px;
-	
+
     background-color: #333333;
     position: relative;
     overflow: hidden;
@@ -188,12 +192,12 @@ ul li {
     font-weight: 400;
     line-height: 15px;
     padding-top: 45px;
-  
+
 }
 
 .page-footer .site-information {
     display: inline-block;
-    margin-right: -5px;    
+    margin-right: -5px;
 }
 
 .page-footer .site-link {
