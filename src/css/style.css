@@ -106,7 +106,7 @@ ul li {
 	display: block;
 }
 
-.main-menu .menu-items li>a {
+.main-menu  li>a {
 	font-family: DINCyr, Arial, sans-serif;
 	font-size: 40px;
 	line-height: 38px;
