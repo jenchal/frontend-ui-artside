@@ -79,7 +79,7 @@ ul li {
 	height: auto;
 }
 
-.page-header .code-phone {
+.page-header .phone {
 	display: block;
 	font-family: 'LightAlternate', 'Arial', sans-serif;
 	color: #707070;
@@ -89,7 +89,7 @@ ul li {
 	text-decoration: none;
 }
 
-.page-header .code-phone .phone {
+.page-header .phone .phone-number {
 	display: block;
 	font-size: 30px;
 }
@@ -113,7 +113,7 @@ ul li {
 	height: 42px;
 }
 
-.main-menu .menu-items li>a:hover {
+.main-menu li>a:hover {
 	background-color: #707070;
 	color: #ffffff;
 	cursor: pointer;
