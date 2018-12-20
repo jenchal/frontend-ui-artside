@@ -138,13 +138,13 @@ ul li {
 	margin-bottom: 45px;
 }
 
-.teammate-photo {
+.teammates-photos {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 22px;
 }
 
-.teammate-photo .photo {
+.teammates-photos .photo {
 	width: 78px;
 	height: 78px;
 	background-color: #333333;
@@ -153,7 +153,7 @@ ul li {
 	margin-right: 12px;
 }
 
-.teammate-photo img {
+.teammates-photos img {
 	display: block;
 	position: absolute;
 	top: 0;
@@ -165,11 +165,11 @@ ul li {
 	margin: auto;
 }
 
-.teammate-photo .teammates-items .teammate-name {
+.teammates-photos .teammates-items .teammate-name {
 	width: 136px;
 }
 
-.teammate-photo li  {
+.teammates-photos li  {
 	display: flex;
 	margin-bottom: 22px;
 }
