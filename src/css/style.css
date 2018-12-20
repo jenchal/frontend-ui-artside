@@ -154,15 +154,15 @@ ul li {
 }
 
 .teammate-photo img {
-    display: block;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    max-height: 100%;
-    width: auto;
-    left: -100%;
-    right: -100%;
-    margin: auto;
+	display: block;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	max-height: 100%;
+	width: auto;
+	left: -100%;
+	right: -100%;
+	margin: auto;
 }
 
 .teammate-photo .teammates-items .teammate-name {
@@ -171,27 +171,27 @@ ul li {
 
 .teammate-photo li  {
 	display: flex;
-    margin-bottom: 22px;
+	margin-bottom: 22px;
 }
 
 /*==============================footer===============================*/
 
 .page-footer {
-    width: 1000px;
-    border-top: 1px solid #adadad;
-    height: 100px;
-    margin: -100px auto 0;
-    box-sizing: border-box;
-    font-family: 'Arial', sans-serif;
-    color:  #707070;
-    font-weight: 400;
-    line-height: 15px;
-    padding-top: 45px;
+	width: 1000px;
+	border-top: 1px solid #adadad;
+	height: 100px;
+	margin: -100px auto 0;
+	box-sizing: border-box;
+	font-family: 'Arial', sans-serif;
+	color:  #707070;
+	font-weight: 400;
+	line-height: 15px;
+	padding-top: 45px;
 }
 
 .page-footer .site-information {
-    display: inline-block;
-    margin-right: -5px;
+	display: inline-block;
+	margin-right: -5px;
 }
 
 .page-footer .site-link {
@@ -201,5 +201,5 @@ ul li {
 .page-footer .footer-link {
 	display: inline-block;
 	vertical-align: top;
-    margin-left: 20px;
+	margin-left: 20px;
 }
